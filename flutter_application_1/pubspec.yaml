@@ -1,0 +1,30 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # إذا احتجت تضيف خطوط محلياً ارفع ملفات ttf تحت assets/fonts
+  # وألغي القسم ده لو تستخدم google_fonts package
+  #fonts:
+  #  - family: Cairo
+  #    fonts:
+  #      - asset: assets/fonts/Cairo-Regular.ttf
+  #      - asset: assets/fonts/Cairo-Bold.ttf
+  #        weight: 700
