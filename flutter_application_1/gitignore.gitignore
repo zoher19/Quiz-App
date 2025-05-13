@@ -1,0 +1,38 @@
+# Dart and Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# iOS specific
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.podspec
+ios/Podfile.lock
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/engine/
+
+# Android specific
+.android/
+*.iml
+
+# VS Code specific
+.vscode/
+
+# IntelliJ IDEA specific
+.idea/
+
+# MacOS specific
+.DS_Store
+
+# Gradle wrapper and other generated files
+gradle/
+*.apk
+*.jar
+*.keystore
+
+# Temporary files
+*.log
+*.swp
