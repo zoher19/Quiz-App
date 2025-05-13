@@ -11,6 +11,10 @@ The main goal of this project is to deliver a fun and educational quiz experienc
 ---
 
 ## 📸 Screenshots
+![screenshot1](assests/S1.png)
+![screenshot2](assests/S2.png)
+![screenshot3](assests/S3.png)
+![screenshot4](assests/S4.png)
 
 
 
